@@ -584,6 +584,3 @@ This project is private and not licensed for public distribution.
 
 ---
 
-<p align="center">
-  Made with ❤️ by <strong>Piyush Kumar</strong>
-</p>
